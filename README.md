@@ -2,8 +2,8 @@
 
 # Explore Google hacking and enumeration 
 ```
-Developed by: RAJKUMAR
-Register no: 212223230166
+Developed by: S.pooja Abirami
+Register no: 212223100041
 ```
 # AIM:
 To use Google for gathering information and perform enumeration of targets
